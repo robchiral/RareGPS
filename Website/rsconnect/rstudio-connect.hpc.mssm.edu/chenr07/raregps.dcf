@@ -1,0 +1,12 @@
+name: raregps
+title: RareGPS
+username: chenr07
+account: chenr07
+server: rstudio-connect.hpc.mssm.edu
+hostUrl: https://rstudio-connect.hpc.mssm.edu/__api__
+appId: 328
+bundleId: 1364
+url: https://rstudio-connect.hpc.mssm.edu/raregps/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
