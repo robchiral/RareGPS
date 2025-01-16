@@ -6,3 +6,4 @@ You can view RareGPS predictions interactively [here](https://rstudio-connect.hp
 Here we provide Jupyter notebooks to:
 1. Generate predictions with trained models
 2. Train new models on custom phecodes
+3. Demonstrate how we processed drug and genetic data for model training
